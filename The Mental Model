@@ -1,0 +1,2 @@
+Traditional:      5 × 40 = 200  (CPU calculates)
+Spatial Logic:    5@L1 → 5@L2 = 200  (Grid property)
