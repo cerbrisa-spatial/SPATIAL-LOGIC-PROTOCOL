@@ -1,0 +1,30 @@
+Spatial-Logic-Protocol/
+│
+├── README.md                          # (Ya existe - lo reemplazamos)
+├── LICENSE                            # (Se agregó automáticamente)
+│
+├── core/
+│   ├── __init__.py
+│   ├── spatial_grid.py               # Implementación principal
+│   └── operators.py                  # Operadores Z-axis
+│
+├── examples/
+│   ├── basic_multiplication.py
+│   ├── pattern_recognition.py
+│   └── hardware_simulation.py
+│
+├── paper_model/
+│   ├── printable_grid_10x10.pdf
+│   ├── level_cards.pdf
+│   └── assembly_instructions.md
+│
+├── docs/
+│   ├── THEORY.md                     # Explicación teórica profunda
+│   ├── BWC_BORDA_MANIFESTO.md        # El manifiesto original
+│   └── CHALLENGE.md                  # #SpatialLogicChallenge
+│
+├── community/
+│   └── CONTRIBUTING.md
+│
+└── tests/
+    └── test_spatial_grid.py
