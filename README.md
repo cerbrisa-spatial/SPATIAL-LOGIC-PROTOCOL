@@ -37,3 +37,13 @@ result = grid.shift_level(x=3, y=3, from_level=1, to_level=2)  # Value = 200
 
 # No arithmetic operation was performed. Only a spatial relocation.
 print(f"Result: {result}")  # 200
+## 🚀 Ready to Shift Paradigms?
+
+This is more than code. It's an invitation to rebuild computation from first principles.
+
+**Next Steps:**
+1.  **Star this repo** to follow its development.
+2.  **Try the `SpatialGrid` class** in `/core/spatial_grid.py`.
+3.  **Stay tuned.** The official #SpatialLogicChallenge and contribution guidelines are coming in the next 24 hours.
+
+**Honor the legacy. Revolutionize the paradigm.**
