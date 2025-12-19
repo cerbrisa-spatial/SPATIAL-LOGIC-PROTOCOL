@@ -4,6 +4,8 @@ B&amp;W Contreras Borda Spatial Logic Protocol - From Sequential Calculation to 
 ## B&W Contreras Borda Legacy
 
 > **"The address IS the computation. The map IS the math."**
+>
+> 
 
 A radical computational paradigm shift from **sequential calculation** to **resonant spatial positioning**. This is not an optimization. It's a new foundation.
 
@@ -47,3 +49,4 @@ This is more than code. It's an invitation to rebuild computation from first pri
 3.  **Stay tuned.** The official #SpatialLogicChallenge and contribution guidelines are coming in the next 24 hours.
 
 **Honor the legacy. Revolutionize the paradigm.**
+> **Built upon the foundational principle of:** [Ontological Storage](https://github.com/cerbrisa-spatial/ontological-storage) — *Data as existence, not state.*
