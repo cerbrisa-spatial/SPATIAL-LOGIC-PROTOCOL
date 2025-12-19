@@ -1,0 +1,4 @@
+# Dependencias solo para las demostraciones visuales
+# El core del proyecto NO requiere estas dependencias
+numpy>=1.21.0
+matplotlib>=3.5.0
