@@ -52,3 +52,7 @@ This is more than code. It's an invitation to rebuild computation from first pri
 > **Built upon the foundational principle of:** [Ontological Storage](https://github.com/cerbrisa-spatial/ontological-storage) — *Data as existence, not state.*
 
 "This project is protected under the Wilbert Contreras Proprietary Research License. See LICENSE for details"
+
+## 🤝 Contributing
+Before submitting a Pull Request, please review our [Contributor License Agreement (CLA)](.github/CLA.md).
+By submitting a PR, you agree to its terms.
